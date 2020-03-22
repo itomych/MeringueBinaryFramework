@@ -1,0 +1,6 @@
+framework module MeringueSDK {
+  umbrella header "MeringueSDK.h"
+
+  export *
+  module * { export * }
+}
