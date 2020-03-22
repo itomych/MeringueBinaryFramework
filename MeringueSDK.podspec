@@ -11,7 +11,7 @@ s.homepage     = "https://bitbucket.org/itomych/meringue-ios"
 s.license      = { :type => "MIT", :file => "LICENSE" }
 s.author       = { "itomych studio" => "office@itomy.ch" }
 s.platform     = :ios, "8.0"
-s.source       = { :http => "https://" }
+s.source       = {  :git => "$HOME/MeringueSDK.git", :tag => "#{s.version}" }
 
 s.source_files        = "MeringueSDK.framework/Headers/*.h"
 s.public_header_files = "MeringueSDK.framework/Headers/*.h"
