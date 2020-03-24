@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/MEAsset+Serialization.h</key>
 		<data>
-		m4931wy2Yzrkw42lRyyCk/Lsvmg=
+		O1Dnm9c2oFRsXW8XRldIXiuCrFM=
 		</data>
 		<key>Headers/MEAsset.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Headers/MEAssets.h</key>
 		<data>
-		pUZLLVKXaHrQrI48iMrW18UwW0o=
+		+nisAWxjDEGFcIPxKf0x6l1008U=
 		</data>
 		<key>Headers/MECoreDataStack.h</key>
 		<data>
-		/kLNU01fvDnZFWwpVTikuRDfn8c=
+		DufD6Hl1NsYaV8uUYY0//kdcQ1k=
 		</data>
 		<key>Headers/MEHTTPSessionManager.h</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Headers/MEInbox.h</key>
 		<data>
-		+QUHktQHB/Cjurv4KGL4yYTtTkg=
+		cjIwzJKlwrQJAtjhpAi9mT3DZwU=
 		</data>
 		<key>Headers/MEInstallation+MERESTClient.h</key>
 		<data>
-		H6UfGMBkil0vg3KrNNwzvFWCV7o=
+		2IQoV8Edho5oe9NUXcNLB6iuPF0=
 		</data>
 		<key>Headers/MEInstallation.h</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Headers/MEManagedObject.h</key>
 		<data>
-		Ge4Bd8/wma/aqO2ucAiNplGbqAM=
+		ZhZqBqsUX044grL9IZ8PcTYCVY8=
 		</data>
 		<key>Headers/MEMessage+CoreDataProperties.h</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/MEMessage+Serialization.h</key>
 		<data>
-		ZOWZo/H45vXt7gGI7BTbCTcMA/A=
+		OdRk9rIRgOWIdqRy8NKLqeZE07Q=
 		</data>
 		<key>Headers/MEMessage+StateManagement.h</key>
 		<data>
@@ -82,11 +82,11 @@
 		</data>
 		<key>Headers/MERESTClient.h</key>
 		<data>
-		zHPe2hzgqZ9NMJgt2f2R0uR1N6U=
+		PwTtwIxoGk8eCVx1Nc+8CZC8X/w=
 		</data>
 		<key>Headers/Meringue.h</key>
 		<data>
-		elNkOBCTzkP7z0LwE3xxLjuDAaM=
+		hbRaEtlvO7sO8cix/EPzZroFH4w=
 		</data>
 		<key>Headers/MeringueSDK.h</key>
 		<data>
@@ -98,11 +98,11 @@
 		</data>
 		<key>Headers/NSManagedObjectContext+HEDataImport.h</key>
 		<data>
-		wGDudALKkkqaqz4Zha+mDZ0tVRE=
+		B7QggXc0SC5Mormhg4sWCT62nqU=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		OWz2XgtD34CF6kOxlYA6c1CLSms=
+		dgDOiNcbc/4yBIYpH7GVYKugvoo=
 		</data>
 		<key>MEMessageTemplate.html</key>
 		<data>
@@ -110,39 +110,43 @@
 		</data>
 		<key>Meringue.momd/Meringue 2.mom</key>
 		<data>
-		glhhtyikmi4nH6F6nVB3+eQTK2w=
+		cTqP9COoeKIMElLyCV1AKVqCnJk=
 		</data>
 		<key>Meringue.momd/Meringue 3.mom</key>
 		<data>
-		Kco0fFPVkqollKyg3BqTfUZ7a2I=
+		DaTGBOHz+B4mr2Ul3JTn9BgWr8o=
 		</data>
 		<key>Meringue.momd/Meringue 4.mom</key>
 		<data>
-		JqOSPEznSVp2zC5iraE/Z7WyEk8=
+		7CMi6/RcNg8ZThKwSnVHMHBxDwg=
 		</data>
 		<key>Meringue.momd/Meringue 5.mom</key>
 		<data>
-		3b8PPCyCo7ab14SNf3cWHJMfT2c=
+		zTtfgFORjceuDDFc/qU+cCIwB2s=
 		</data>
 		<key>Meringue.momd/Meringue 6.mom</key>
 		<data>
-		SKmGsg7G0BAvDJS+giLzMcaONfo=
+		14nJc4Zu/kH6f5DckNQqeAj8dd8=
 		</data>
 		<key>Meringue.momd/Meringue 6.omo</key>
 		<data>
-		bKXYXk/6FRCoz2M6RFrLHVolGm0=
+		dGcscHlNfw4wJT2Ig1+wXenGupY=
 		</data>
 		<key>Meringue.momd/Meringue.mom</key>
 		<data>
-		xhnCm4Qnf5GjafwsRpUCkcsRnCQ=
+		xGcSF0RBTvuht5JmLfyew6SIYyY=
 		</data>
 		<key>Meringue.momd/VersionInfo.plist</key>
 		<data>
-		5fYvIkL2oIRTpLAujMmBuNMtwo4=
+		aRR5fLpfhMQZoXv+XKi9tCgMKOc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		14ICZN4rmxWO1pmQmmkKlpYU0EE=
+		</data>
+		<key>strip-frameworks.sh</key>
+		<data>
+		YmK7YvoY0QjD59DeuxnREdV/NNs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -162,11 +166,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			m4931wy2Yzrkw42lRyyCk/Lsvmg=
+			O1Dnm9c2oFRsXW8XRldIXiuCrFM=
 			</data>
 			<key>hash2</key>
 			<data>
-			iPjr8kzxcnpG1aK/oANqNjp4NhiuF+s6j+6bkhtRLMA=
+			XIuKyi4aPBhil0pF9ORyDwMK5Zu/nCwJ68e56tJV07g=
 			</data>
 		</dict>
 		<key>Headers/MEAsset.h</key>
@@ -184,22 +188,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pUZLLVKXaHrQrI48iMrW18UwW0o=
+			+nisAWxjDEGFcIPxKf0x6l1008U=
 			</data>
 			<key>hash2</key>
 			<data>
-			FmTxqxlWmfXXsBGI7zceqWgtSZlDkU+J0vXPKJ+mHGQ=
+			s7MUPG6x/fk6VpX5+Icw1Hr9/axeJFj8Lrp+kATvo0c=
 			</data>
 		</dict>
 		<key>Headers/MECoreDataStack.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/kLNU01fvDnZFWwpVTikuRDfn8c=
+			DufD6Hl1NsYaV8uUYY0//kdcQ1k=
 			</data>
 			<key>hash2</key>
 			<data>
-			Vm5IzYRUnmcj9V8bpOER+HQVTLwXUdu/wylo9OzwlRk=
+			g+v31SI/if2UTohi/sXWshCoS4rn+8WHO+MIh7LmHSs=
 			</data>
 		</dict>
 		<key>Headers/MEHTTPSessionManager.h</key>
@@ -217,22 +221,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+QUHktQHB/Cjurv4KGL4yYTtTkg=
+			cjIwzJKlwrQJAtjhpAi9mT3DZwU=
 			</data>
 			<key>hash2</key>
 			<data>
-			XSRMZ0t75dRxolM1hL2mtg00xK3W6GAImfkb/icbuzI=
+			OrRSfThLzIwpVMDvcHsowiTykmy2eBkp+OFWxLj7yLk=
 			</data>
 		</dict>
 		<key>Headers/MEInstallation+MERESTClient.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			H6UfGMBkil0vg3KrNNwzvFWCV7o=
+			2IQoV8Edho5oe9NUXcNLB6iuPF0=
 			</data>
 			<key>hash2</key>
 			<data>
-			TefQoOtq8p4XDnEfHvck7PXTZD2UtH2vMNKtP/GzXC0=
+			6fTy5Akj3aWj+9t0yz/dOz67O8mJ62PVozjiFRo5bMo=
 			</data>
 		</dict>
 		<key>Headers/MEInstallation.h</key>
@@ -250,11 +254,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ge4Bd8/wma/aqO2ucAiNplGbqAM=
+			ZhZqBqsUX044grL9IZ8PcTYCVY8=
 			</data>
 			<key>hash2</key>
 			<data>
-			4M7nXhTWQwbm0Bjdv16zKylH5QmmNygk/DUAZoAHck8=
+			cAUMYqSIcI+1OS6LerjjNhpauEoI4F7LNs3+y9x//Nw=
 			</data>
 		</dict>
 		<key>Headers/MEMessage+CoreDataProperties.h</key>
@@ -283,11 +287,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZOWZo/H45vXt7gGI7BTbCTcMA/A=
+			OdRk9rIRgOWIdqRy8NKLqeZE07Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			43xtCm4ZPuH5kZH6FkgYdoPzSZmO7xc9pBqDIv1najE=
+			WIX5mj+F9H869zs6LkLLUruYskWD/f4kRa7GKARVXuE=
 			</data>
 		</dict>
 		<key>Headers/MEMessage+StateManagement.h</key>
@@ -360,22 +364,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zHPe2hzgqZ9NMJgt2f2R0uR1N6U=
+			PwTtwIxoGk8eCVx1Nc+8CZC8X/w=
 			</data>
 			<key>hash2</key>
 			<data>
-			ms1xXsVE8L+UjMzAE1QL2xoLD/49z4Ei7M+lZFKgzRo=
+			mXeqj48hqfUTjtcwCOW3Aq9E9XEewaWYLKJkp32AFk0=
 			</data>
 		</dict>
 		<key>Headers/Meringue.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			elNkOBCTzkP7z0LwE3xxLjuDAaM=
+			hbRaEtlvO7sO8cix/EPzZroFH4w=
 			</data>
 			<key>hash2</key>
 			<data>
-			S/z5p9M2QSXY5NQJrrHcoRCxxhNW+TPdmVz2L97HPaw=
+			GNIPYghegWwlOUgDnL79SLJyarlKZpER1knqwKo8+Pw=
 			</data>
 		</dict>
 		<key>Headers/MeringueSDK.h</key>
@@ -404,11 +408,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wGDudALKkkqaqz4Zha+mDZ0tVRE=
+			B7QggXc0SC5Mormhg4sWCT62nqU=
 			</data>
 			<key>hash2</key>
 			<data>
-			6AkJMiiq9MpWCyAmaYI6JIkAJm9FFsnlKul0/iBZ5so=
+			MZEDb9QqsAA0UHpnx5mjuASvyl7T5nFBVavI6oBRNBk=
 			</data>
 		</dict>
 		<key>MEMessageTemplate.html</key>
@@ -426,88 +430,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			glhhtyikmi4nH6F6nVB3+eQTK2w=
+			cTqP9COoeKIMElLyCV1AKVqCnJk=
 			</data>
 			<key>hash2</key>
 			<data>
-			W4C3PKQYVBwm/NeDoUWJaExxgts3uVu4D8Cpvu8tCbo=
+			raZ9orlQRgTQ/WlQUU+27784Qje5Nm3l1pCbypIoFEY=
 			</data>
 		</dict>
 		<key>Meringue.momd/Meringue 3.mom</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Kco0fFPVkqollKyg3BqTfUZ7a2I=
+			DaTGBOHz+B4mr2Ul3JTn9BgWr8o=
 			</data>
 			<key>hash2</key>
 			<data>
-			r8foN7WhJp0TfIibZPkif7KgwMYEx+loiK3qZUrZdIg=
+			jy4c9qskSP+bVQBqOqpZ0nkgwFKih8kHBZKn+oLVEcQ=
 			</data>
 		</dict>
 		<key>Meringue.momd/Meringue 4.mom</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JqOSPEznSVp2zC5iraE/Z7WyEk8=
+			7CMi6/RcNg8ZThKwSnVHMHBxDwg=
 			</data>
 			<key>hash2</key>
 			<data>
-			PIhm4q4GrJmhUK/QuZL+SXl4pNa+8Mvc/Ot0DAUFMgc=
+			QbD35p7VO/y6a6OyhdU0zyY5soSy/UU8nPXeM0xZxGI=
 			</data>
 		</dict>
 		<key>Meringue.momd/Meringue 5.mom</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3b8PPCyCo7ab14SNf3cWHJMfT2c=
+			zTtfgFORjceuDDFc/qU+cCIwB2s=
 			</data>
 			<key>hash2</key>
 			<data>
-			LZMsldlWNOtt/g73JmfPYfVgF8gdpF8LYWGxABQWSvg=
+			T1Bq8/+84zagQ85cJoaHY3oxFtE8snBGf/zUHFcPrAw=
 			</data>
 		</dict>
 		<key>Meringue.momd/Meringue 6.mom</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SKmGsg7G0BAvDJS+giLzMcaONfo=
+			14nJc4Zu/kH6f5DckNQqeAj8dd8=
 			</data>
 			<key>hash2</key>
 			<data>
-			xAIo/KHo9oQY9z7I4RI+8JdtbYaZ4eEpKySKPW0o1TQ=
+			vnRvT2gunpf61RZZA/PL/3xqGXLexm0h4HfKvcH16Kc=
 			</data>
 		</dict>
 		<key>Meringue.momd/Meringue 6.omo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bKXYXk/6FRCoz2M6RFrLHVolGm0=
+			dGcscHlNfw4wJT2Ig1+wXenGupY=
 			</data>
 			<key>hash2</key>
 			<data>
-			kIotIGpAVhjGJpFfMPuR1tFeTNzFjjsYWU4Lfkx3BRg=
+			El0voNxolSV0NMY4Wlk1TyTtAqpFThxe41zzGLoo420=
 			</data>
 		</dict>
 		<key>Meringue.momd/Meringue.mom</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xhnCm4Qnf5GjafwsRpUCkcsRnCQ=
+			xGcSF0RBTvuht5JmLfyew6SIYyY=
 			</data>
 			<key>hash2</key>
 			<data>
-			B8S6mhmht4eKgojBRcYvFpFIzWlP7zgWvD/5HwZrK5I=
+			jQ2VCPpyzzk2/HDZNH6IfJQrmke1AHxQidLNmEMvA84=
 			</data>
 		</dict>
 		<key>Meringue.momd/VersionInfo.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5fYvIkL2oIRTpLAujMmBuNMtwo4=
+			aRR5fLpfhMQZoXv+XKi9tCgMKOc=
 			</data>
 			<key>hash2</key>
 			<data>
-			OkagQP2835xAnsQ+tYEs2BalpKsGR1VUcNT3EGlJUpI=
+			PU5xgoMRx5/kinABmth2DBhuQ3e2XlJayPtICTVyvPM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -519,6 +523,17 @@
 			<key>hash2</key>
 			<data>
 			yWHdDtIwAz+y4ecntCRxC2K0EwEXBlx/HVnysTC7OTo=
+			</data>
+		</dict>
+		<key>strip-frameworks.sh</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YmK7YvoY0QjD59DeuxnREdV/NNs=
+			</data>
+			<key>hash2</key>
+			<data>
+			gctqGSUSBFl9tyTvAjvW42z53nQ7DezlTiuShpXOOUI=
 			</data>
 		</dict>
 	</dict>
