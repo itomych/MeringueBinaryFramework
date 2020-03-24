@@ -14,7 +14,12 @@ __attribute__((objc_subclassing_restricted))
 @interface MECoreDataStack : MEPersistentContainer
 
 @property (readonly, strong, nonatomic) NSManagedObjectContext *managedObjectContext;
-
+    
+/**
+ Initializes shared instance of MECoreDataStack
+     
+ @return instance of MECoreDataStack to be used with meringue data base
+ */
 + (instancetype)defaultCoreDataStack;
 
 @end

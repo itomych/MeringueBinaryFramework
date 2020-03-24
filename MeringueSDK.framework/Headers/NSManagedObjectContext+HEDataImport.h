@@ -9,7 +9,9 @@
 #import <CoreData/CoreData.h>
 
 NS_ASSUME_NONNULL_BEGIN
-
+/**
+ Protocol with help methods for merging objects into contexts
+ */
 @protocol HEMergeable <NSObject>
 
 + (instancetype)objectWithPrimaryKeyValue:(id)value

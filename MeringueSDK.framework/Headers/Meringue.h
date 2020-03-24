@@ -10,9 +10,20 @@
 
 @interface Meringue : NSObject
 
+/**
+ 
+ 
+ @param URLString base url
+ @param applicationKey application key
+ */
 + (void)setBaseURLString:(NSString *)URLString
           applicationKey:(NSString *)applicationKey;
 
+/**
+ Sets application identidier
+ 
+ @param identifier identifier of the application
+ */
 + (void)setApplicationIdentifier:(NSString *)identifier;
 
 + (void)setMacAddressURLString:(NSString *)URLString;
@@ -23,6 +34,12 @@
 
 + (void)authorize;
 
+/**
+ Authorizes Meringue with configurted service
+ 
+ @param servcieID id of the configured service
+ @param parameters authorization parameters fetched from your server
+ */
 + (void)authorizeUserWithService:(NSString *)servcieID
                       parameters:(id)parameters;
 
